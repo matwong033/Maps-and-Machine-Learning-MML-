@@ -5,6 +5,8 @@ Hello! I am dedicating this repo “maps” to collect thoughts and inspirations
 
 I am writing this as I’m travelling through Parek and Pahang states, crossing from Ipoh, up to the mountains of the Cameron highlands region, then across rhe mountains into Pahang.
 
+<img width="785" height="697" alt="image" src="https://github.com/user-attachments/assets/8bf3b473-b62d-4c19-8ae2-b5004fb01dcb" />
+
 I am especially intrigued by the province flags in Malaysia. The penang flag is very representative: being yellow, white and blue in color, with the iconic coconut tree at the middle, presenting the state as a coastal, tropical region of Malaysia. Less colourful flags as such the Parek flag colored in white, yellow and black, as well as the monotonic black white flag of Pahang, intrigues me even more due to their simplicity yet representative impressions of the two regions: inland, multi-terrain (plateau, highland), populated with dense rainforests. 
 
 The mapping of such regions ranges from complex road networks in inland, relatively flatter lands of Parek, which are popular and reasonable locations for largely inhabited cities ; to, less densely populated, steep, mountainous regions in the highland regions of Pahang. I am fascinated by modern mapping technologies that accurately records complex traffic networks, to deciding the best route for travellers like me to exit touristy regions in the fastest, fuel-efficient, cost-effective way that avoids heavy tolls.
