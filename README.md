@@ -21,3 +21,5 @@ The mapping of such regions ranges from complex road networks in inland, relativ
 
 
 In the following, I will begin by exploring the fundamental mathematics and philosophy behind maps, then onto modern computational techniques that transform paper form, 2D maps into digital navigation tools of our everyday use. I am extending this exploration to my own project working on optimisation techniques inspired by maps, into topics of optimisation algorithms in maths & computing, physics, and quantitative finance.
+
+<img width="1440" height="476" alt="image" src="https://github.com/user-attachments/assets/ff3188ad-eacf-4e75-9c39-b412405d78d0" />
