@@ -9,9 +9,9 @@ I am writing this as I’m travelling through Parek and Pahang states, crossing 
 
 I am especially intrigued by the province flags in Malaysia. The penang flag is very representative: being yellow, white and blue in color, with the iconic coconut tree at the middle, presenting the state as a coastal, tropical region of Malaysia. Less colourful flags as such the Parek flag colored in white, yellow and black, as well as the monotonic black white flag of Pahang, intrigues me even more due to their simplicity yet representative impressions of the two regions: inland, multi-terrain (plateau, highland), populated with dense rainforests. 
 
-<img width="1024" height="512" alt="image" src="https://github.com/user-attachments/assets/208aaeab-7555-4e84-872f-85e1eecb20b3" />
-<img width="2000" height="1000" alt="image" src="https://github.com/user-attachments/assets/37f418b2-e5d9-4c59-a6b2-b8cd6cd73607" />
-<img width="2000" height="1000" alt="image" src="https://github.com/user-attachments/assets/1f229477-f137-455b-aed8-921cddaea62e" />
+<img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/208aaeab-7555-4e84-872f-85e1eecb20b3" />
+<img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/37f418b2-e5d9-4c59-a6b2-b8cd6cd73607" />
+<img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/1f229477-f137-455b-aed8-921cddaea62e" />
 
 
 The mapping of such regions ranges from complex road networks in inland, relatively flatter lands of Parek, which are popular and reasonable locations for largely inhabited cities ; to, less densely populated, steep, mountainous regions in the highland regions of Pahang. I am fascinated by modern mapping technologies that accurately records complex traffic networks, to deciding the best route for travellers like me to exit touristy regions in the fastest, fuel-efficient, cost-effective way that avoids heavy tolls.
