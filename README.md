@@ -16,4 +16,8 @@ I am especially intrigued by the province flags in Malaysia. The penang flag is 
 
 The mapping of such regions ranges from complex road networks in inland, relatively flatter lands of Parek, which are popular and reasonable locations for largely inhabited cities ; to, less densely populated, steep, mountainous regions in the highland regions of Pahang. I am fascinated by modern mapping technologies that accurately records complex traffic networks, to deciding the best route for travellers like me to exit touristy regions in the fastest, fuel-efficient, cost-effective way that avoids heavy tolls.
 
+<img width="500" height="306" alt="image" src="https://github.com/user-attachments/assets/9c279188-c54a-4616-8d59-6d7de53b4468" />
+<img width="500" height="285" alt="image" src="https://github.com/user-attachments/assets/a64a6e99-1bb6-4ed9-b6b0-3cbc3a6d2186" />
+
+
 In the following, I will begin by exploring the fundamental mathematics and philosophy behind maps, then onto modern computational techniques that transform paper form, 2D maps into digital navigation tools of our everyday use. I am extending this exploration to my own project working on optimisation techniques inspired by maps, into topics of optimisation algorithms in maths & computing, physics, and quantitative finance.
