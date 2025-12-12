@@ -1,5 +1,5 @@
 # Maps-and-Machine-Learning-(MML)
----- My devotion to maps (of all kinds) and my map-inspired ML project on optimsation algorithms and statistics! Huge fan of navigation data here :-) ----
+---- My devotion to maps (of all kinds) and my map-inspired ML project on optimsation algorithms and statistics, applicable for maths, physics and quant finance! Huge fan of navigation data here :-) ----
 
 Hello! I am dedicating this repo “maps” to collect thoughts and inspirations about maps. More specifically - how digital maps recreate real-life routes with accuracy and finding the best path to reaching a destination. 
 
